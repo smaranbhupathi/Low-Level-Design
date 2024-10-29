@@ -1,0 +1,6 @@
+Definiation :
+A class or method should be having only one reason to change or only one responsibility to take care of
+
+Consequences :
+If a class doesn't following single responsibility principle it is less reusable and extensilble buecause it may carry unecessary methods and properties
+

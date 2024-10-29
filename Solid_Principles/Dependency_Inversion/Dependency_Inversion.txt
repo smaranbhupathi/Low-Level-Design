@@ -1,0 +1,2 @@
+A High level class should not be dependent on the low level concrete class rather than both the high leval and the low level classes should be dependent on the interface
+Because changing the implementation of the high level class to use other low level class then we need to change a lot of code change

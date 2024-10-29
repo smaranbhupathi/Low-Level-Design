@@ -1,0 +1,2 @@
+Liskov susbstitution principle states that u shoild be able to replace by derived class object whenever base class object is expected
+The derived class should extend the properties and methods of the base class rather than overriding the existing behaviour  

@@ -1,0 +1,1 @@
+Interface segregation principle states that a derived class should not be forced to implemenent the interface methods it doesn't use. Instead split the fat interface into small interfaces, so that the derived class should be concerned with the methods it use   

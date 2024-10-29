@@ -1,0 +1,3 @@
+Open Closed principle states that any module, function, class should be open for extension but closed for modification
+That means that existing code should not changes for adding a new functionality. Instead the design should allow to extend the existing functionality rather than modifing it
+The design minimizes the bugs as it doesn't allowing to change the existing functionality 
